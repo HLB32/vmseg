@@ -1,0 +1,5 @@
+OpenCV version: 4.6.0
+NumPy version: 1.23.4
+Imutils version: 0.5.4
+Matplotlib version: 3.7.1
+Python version: 3.9.13 | packaged by conda-forge | (main, May 27 2022, 16:51:29) [MSC v.1929 64 bit (AMD64)]
